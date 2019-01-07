@@ -9,7 +9,7 @@ end
 def argue(phrase)
 
    "#{phrase}"
-
+end
 def greeting
 
 end
